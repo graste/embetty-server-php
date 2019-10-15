@@ -1,6 +1,6 @@
 # embetty-server-php
 
-Alternative to [heise/embetty-server](https://github.com/heiseonline/embetty-server) written in plain old PHP that cannot be used as a drop-in replacement.
+Alternative to [heiseonline/embetty-server](https://github.com/heiseonline/embetty-server) written in plain old PHP that cannot be used as a drop-in replacement.
 
 ## Usage
 
